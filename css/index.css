@@ -1,0 +1,40 @@
+p{
+  width: 100%;
+  text-align: center;
+  font-family: Prototype, sans-serif;
+  font-size: 450%;
+  margin-top: 25vh;
+}
+
+div.content{
+  justify-content: center;
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  align-items: stretch;
+  margin: auto;
+
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20vh;
+}
+
+a#start{
+  background-color: #888888;
+  font-family: Prototype, sans-serif;
+  font-size: 400%;
+  border-radius: 15px;
+  width: 25%;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+a#start:hover{
+  background-color: #555555;
+  color: #cccccc;
+}

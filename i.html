@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Accurate alcometer</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+</head>
+<body onclick="noncircle(event)">
+
+<!--
+<script type="text/javascript">
+  addEventListener("click", (event) => {});
+  onclick = (event) => {noncircle(event)};
+</script>
+-->
+
+<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/i.css">
+
+<div id="content">
+  <p id="text">You seem drunk. <br> Please click in the circle to prove me otherwise.</p>
+  <div id="container">
+    <button id="circle"></button>
+  </div>
+  <nav>
+    <a id="back" class="start" href="index.html">Back</a>
+    <a class="start, next" id="nextbutton" href="index.html" >Next</a>
+  </nav>
+</div>
+
+</body>
+</html>
