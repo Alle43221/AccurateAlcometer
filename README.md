@@ -3,7 +3,6 @@
 
 ![image](https://github.com/Alle43221/AccurateAlcometer/assets/79206599/329b5fbb-dc10-4885-9667-9ecf8a1e7ab5)
 
-<br/>
 - pure HTML, CSS and JavaScript
 - click in the red circle and place an X completely inside to prove you are sober
 <details>
