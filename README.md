@@ -1,4 +1,7 @@
 # Web-based Accurate Alcometer - Check how drunk you are!
+<br/><br/>
+![image](https://github.com/Alle43221/AccurateAlcometer/assets/79206599/be68dd5e-75ff-43f6-9c45-38b07ed66fb8)
+<br/><br/>
 - pure HTML, CSS and JavaScript
 - click in the red circle and place an X completely inside to prove you are sober
 <details>
